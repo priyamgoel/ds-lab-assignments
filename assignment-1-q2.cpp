@@ -1,4 +1,4 @@
-// given a sorted array, remove the duplicate elements from array 
+// question 2 : given a sorted array, remove the duplicate elements from array 
 #include <iostream>
 using namespace std;
 

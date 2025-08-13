@@ -1,11 +1,12 @@
-/******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
+/* 
+Question 1) Develop a Menu driven program to demonstrate the following operations of Arrays
+——MENU——- 1.CREATE
+2. DISPLAY
+3. INSERT
+4. DELETE
+5. LINEAR SEARCH
+6. EXIT
+*/
 #include <iostream>
 using namespace std;
 
